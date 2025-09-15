@@ -1,5 +1,5 @@
 // ⚠️ Put your API key here
-const OPENAI_API_KEY = openai_api_key; // Replace with your actual OpenAI API key
+const OPENAI_API_KEY = ${OPENAI_API_KEY}; 
 
 chrome.runtime.onMessage.addListener((msg, sender, sendResponse) => {
   if (msg.action === "scrape_and_summarize") {
