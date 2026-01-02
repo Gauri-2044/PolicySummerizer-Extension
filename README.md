@@ -24,10 +24,10 @@ Summarizing them using AI
 
 Clearly explaining:
 
-✅ What data is collected
-📍 Where your data is used/shared
-⚠️ Potential risks & red flags
-👍 Safe or user-friendly practices
+- ✅ What data is collected
+- 📍 Where your data is used/shared
+- ⚠️ Potential risks & red flags
+- 👍 Safe or user-friendly practices
 All this is shown directly on the same page, so users can make informed decisions before agreeing.
 
 ## ✨ Key Features
@@ -82,12 +82,12 @@ git clone https://github.com/your-username/policy-summarizer-extension.git
 
 Add your OpenAI API key in content.js
 
-Open chrome://extensions/
-Enable Developer Mode
-Click Load Unpacked
-Select the extension folder
-Visit any Privacy Policy page
-Click Summarize This Page
+- Open chrome://extensions/
+- Enable Developer Mode
+- Click Load Unpacked
+- Select the extension folder
+- Visit any Privacy Policy page
+- Click Summarize This Page
 
 ## 📸 Screenshots
 
@@ -100,19 +100,19 @@ Click Summarize This Page
 
 ## 🧠 What I Learned
 
-Chrome Extension architecture (Manifest V3)
-Content scripts & background scripts
-DOM text extraction
-OpenAI API integration
-Injecting UI elements into live webpages
-Building user-centric privacy tools
+- Chrome Extension architecture (Manifest V3)
+- Content scripts & background scripts
+- DOM text extraction
+- OpenAI API integration
+- Injecting UI elements into live webpages
+- Building user-centric privacy tools
 
 ## 🚀 Future Improvements
 
-Multi-language support
-Auto-summarization
-Short / detailed summary modes
-Export summary (PDF / Email)
+- Multi-language support
+- Auto-summarization
+- Short / detailed summary modes
+- Export summary (PDF / Email)
 
 Local caching for repeated pages
 
