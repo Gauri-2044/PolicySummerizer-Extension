@@ -78,7 +78,7 @@ Click Summarize This Page
 ## 📸 Screenshots
 
 ### Extension in Chrome toolbar
-![Extension in Chrome toolbar](Extension_in_chrome.png)
+![Extension in Chrome toolbar](Extension_in_chrome2.png)
 
 ### Popup UI
 ![Popup UI](popup_ui.png)
