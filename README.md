@@ -2,15 +2,19 @@
 A Chrome extension that helps users understand Privacy Policies & Terms & Conditions instead of blindly clicking “I Agree” every time.
 
 ## 📌 Problem Statement
+
 In today’s digital world, most users ignore Privacy Policies and T&C because:
 
-- They are too long
-- Written in complex legal language
+- They are **too long**
+- Written in **complex legal language**
 - Time-consuming to read
-- Blindly agreeing can be dangerous:
+
+Blindly agreeing can be **dangerous**:
+
 - Your personal data may be collected, shared, or sold
 - You may unknowingly give permissions you wouldn’t normally allow
 - Hidden risks and red flags often go unnoticed
+ Hidden risks and red flags often go unnoticed
 
 ## 💡 Solution
 
@@ -26,28 +30,38 @@ Clearly explaining:
 👍 Safe or user-friendly practices
 All this is shown directly on the same page, so users can make informed decisions before agreeing.
 
-✨ Key Features
+## ✨ Key Features
 
-🔍 Detects Privacy Policy & T&C pages
-🧠 AI-powered summarization using OpenAI
-📋 Bullet-point summaries (easy to read)
-🪟 Floating summary box (bottom-right)
-🖱 One-click “Summarize This Page” popup
-🎨 Clean, modern UI
-🛠 Tech Stack
+- 🔍 Detects Privacy Policy & T&C pages
+- 🧠 AI-powered summarization using OpenAI
+- 📋 Bullet-point summaries (easy to read)
+- 🪟 Floating summary box (bottom-right)
+- 🖱 One-click “Summarize This Page” popup
+- 🎨 Clean, modern UI
+
+
+## 🛠 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![AI](https://img.shields.io/badge/AI-GPT%203.5-orange?style=for-the-badge&logo=openai&logoColor=white)
+![Privacy](https://img.shields.io/badge/Privacy-Tools-blue?style=for-the-badge&logo=privacyidea&logoColor=white)
 
 ## 🔄 How It Works
 
-User opens a Privacy Policy / Terms page
-Extension extracts visible page text
-Text is sent to OpenAI GPT model
-AI generates a clear summary:
-What data is collected
-How it is used
-Risks & red flags
+1. User opens a Privacy Policy / Terms page
+2. Extension extracts visible page text
+3. Text is sent to OpenAI GPT model
+4. AI generates a clear summary:
+   - What data is collected
+   - How it is used
+   - Risks & red flags
+5. A floating summary box appears on the page
+6. User reads & decides whether to agree
 
-A floating summary box appears on the page
-User reads & decides whether to agree
 
 📁 Folder Structure
 ``bash
