@@ -78,10 +78,10 @@ Click Summarize This Page
 ## 📸 Screenshots
 
 ### Extension in Chrome toolbar
-![Extension in Chrome toolbar](screenshots/prediction_graph.png)
+![Extension in Chrome toolbar](Extension_in_chrome.png)
 
 ### Popup UI
-![Popup UI](screenshots/prediction_graph.png)
+![Popup UI](popup_ui.png)
 
 
 ## 🧠 What I Learned
